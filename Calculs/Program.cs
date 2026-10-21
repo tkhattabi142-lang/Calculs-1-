@@ -10,7 +10,7 @@ namespace Calculs
         static void Main(string[] args)
         {
             // variables 
-            Random rand = new Random(); // outil de génération de nombre aléatoire
+            Random rand = new Random(); // outil de génération de nombre aléatoire aller
             int val1, val2; // mémorisation de nombres aléatoires
             int solution; // calcul de la solution
             int reponse = 0; // saisie de la réponse de l'utilisateur
